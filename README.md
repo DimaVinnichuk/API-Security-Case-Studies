@@ -46,7 +46,7 @@ Browse the `.md` files to see individual findings.
 
 ## Tools I Use
 
-- Custom Python fuzzer (check my other repo: api-bola-fuzzer)
+- Custom Python fuzzer (check my other repo: API-AutoFuzz)
 - OWASP ZAP
 - Manual testing and validation
 
